@@ -63,9 +63,9 @@ You can email us at cases@interconnectit.fogbugz.com with "My Eyes Are Up Here" 
 
 == Screenshots ==
 
-meauh-screenshot1.jpeg shows the default WordPress cropping where the thumbnail is cropped to the center of the image.
+1. Default WordPress cropping where the thumbnail is cropped to the center of the image.
 
-meauh-screenshot2.jpeg shows the thumbnail after My Eyes Are Up Here has detected any faces in the image.
+2. Thumbnail after My Eyes Are Up Here has detected any faces in the image.
 
 == Changelog ==
 
