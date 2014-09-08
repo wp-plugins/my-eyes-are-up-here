@@ -1,7 +1,7 @@
 ﻿=== My Eyes Are Up Here ===
-Contributors: interconnectit, sanchothefat, Spectacula, AndyWalmsley
+Contributors: interconnectit, sanchothefat, spectacula, AndyWalmsley
 Donate link: https://myeyesareuphere.interconnectit.com/donate/
-Tags: My Eyes Are Up Here, thumbnails, image editing, image
+Tags: thumbnails, image editing, image, featured image
 Requires at least: 3.8.1
 Tested up to: 4.0
 Stable tag: 1.0
@@ -63,9 +63,9 @@ You can email us at cases@interconnectit.fogbugz.com with "My Eyes Are Up Here" 
 
 == Screenshots ==
 
-meauh-screenshot1.jpeg shows the default WordPress cropping where the thumbnail is cropped to the center of the image.
+1. Default WordPress cropping where the thumbnail is cropped to the center of the image.
 
-meauh-screenshot2.jpeg shows the thumbnail after My Eyes Are Up Here has detected any faces in the image.
+2. Thumbnail after My Eyes Are Up Here has detected any faces in the image.
 
 == Changelog ==
 
@@ -84,7 +84,7 @@ meauh-screenshot2.jpeg shows the thumbnail after My Eyes Are Up Here has detecte
 == Upgrade Notice ==
 
 = 1.0 =
-* Initial release
+* Release version
 
 = 0.4 =
 * Lot's of bugfixes
