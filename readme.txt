@@ -16,7 +16,7 @@ My Eyes Are Up Here helps you control how WordPress generates thumbnails.
 A fantastic new plugin that helps you control how WordPress generates thumbnails.
 
 = Why use it? =
-When WordPress automatically generates thumbnails, it sometimes doesn't crop them in a way that is suitable for the image you've uploaded. If your image isn't the correct format, and let's face it, you never know what images people are uploading – you'll run the risk of a badly cropped image. Not good.
+When WordPress automatically generates thumbnails, it sometimes doesn't crop them in a way that is suitable for the image you've uploaded. If your image isn't the correct format, and let's face it, you never know what images people are uploading - you'll run the risk of a badly cropped image. Not good.
 If you have a full portrait image of a person that you've uploaded, but you need the image to appear landscape, you're in trouble! WordPress will centre the image so that you end up with person's crotch. Not good. Or let's say you have a landscape image, with a person's face on the right hand side, but you need it to display in a square thumbnail. You'll end up with half a face as WordPress centres the image.
 
 = What does the plugin do? =
